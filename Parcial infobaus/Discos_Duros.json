@@ -1,0 +1,61 @@
+[
+    {
+        "id": 30,
+        "nombre": "Disco Duro Externo SSD",
+        "marca": "SanDisk",
+        "precio": 199.99,
+        "caracteristicas": [
+            "Capacidad de 1TB",
+            "Velocidad de transferencia de hasta 1050MB/s",
+            "Resistente al agua y al polvo"
+        ],
+        "stock": 9
+    },
+    {
+        "id": 13,
+        "nombre": "Disco Duro Portátil",
+        "marca": "Seagate",
+        "precio": 129.99,
+        "caracteristicas": [
+            "4TB",
+            "USB 3.0",
+            "Resistente a golpes y vibraciones"
+        ],
+        "stock": 9
+    },
+    {
+        "id": 42,
+        "nombre": "Disco Duro Externo Seagate Backup Plus",
+        "marca": "Seagate",
+        "precio": 99.99,
+        "caracteristicas": [
+            "Capacidad de 2TB",
+            "Conexión USB 3.0",
+            "Compatible con Windows y Mac"
+        ],
+        "stock": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Disco Duro Externo",
+        "marca": "Toshiba",
+        "precio": 119.99,
+        "caracteristicas": [
+            "2TB",
+            "USB 3.0",
+            "Resistente a golpes"
+        ],
+        "stock": 6
+    },
+    {
+        "id": 1,
+        "nombre": "Disco Duro Interno",
+        "marca": "Western Digital",
+        "precio": 79.99,
+        "caracteristicas": [
+            "1TB",
+            "7200RPM"
+        ],
+        "stock": 8
+    }
+]

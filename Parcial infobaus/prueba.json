@@ -1,0 +1,608 @@
+[
+    {
+        "id": 28,
+        "nombre": "Módem de Cable",
+        "marca": "ARRIS",
+        "precio": 97.54916,
+        "caracteristicas": [
+            "Velocidad de descarga de hasta 686 Mbps",
+            "Compatible con la mayoría de los proveedores de servicios de Internet",
+            "Conexión Gigabit Ethernet"
+        ],
+        "stock": 6
+    },
+    {
+        "id": 36,
+        "nombre": "Monitor Gaming ASUS TUF",
+        "marca": "ASUS",
+        "precio": 303.50916,
+        "caracteristicas": [
+            "Resolución Full HD",
+            "Tamaño de 24.5 pulgadas",
+            "Frecuencia de actualización de 144Hz"
+        ],
+        "stock": 5
+    },
+    {
+        "id": 49,
+        "nombre": "Router ASUS RT-AC88U",
+        "marca": "ASUS",
+        "precio": 303.50916,
+        "caracteristicas": [
+            "Velocidad de hasta 3100Mbps",
+            "Procesador dual-core de 1.4GHz",
+            "Tecnología MU-MIMO"
+        ],
+        "stock": 4
+    },
+    {
+        "id": 20,
+        "nombre": "Altavoz Inteligente Amazon Echo Dot",
+        "marca": "Amazon",
+        "precio": 54.18916000000001,
+        "caracteristicas": [
+            "Asistente de voz Alexa integrado",
+            "Conexión Wi-Fi y Bluetooth",
+            "Compatible con otros dispositivos inteligentes"
+        ],
+        "stock": 5
+    },
+    {
+        "id": 50,
+        "nombre": "Altavoz Inteligente Amazon Echo Dot",
+        "marca": "Amazon",
+        "precio": 54.18916000000001,
+        "caracteristicas": [
+            "Asistente de voz Alexa integrado",
+            "Conexión Wi-Fi y Bluetooth",
+            "Control de dispositivos inteligentes"
+        ],
+        "stock": 1
+    },
+    {
+        "id": 27,
+        "nombre": "Cargador Portátil Anker PowerCore",
+        "marca": "Anker",
+        "precio": 65.02916,
+        "caracteristicas": [
+            "Capacidad de 10000mAh",
+            "2 puertos USB",
+            "Tecnología PowerIQ para carga rápida"
+        ],
+        "stock": 3
+    },
+    {
+        "id": 22,
+        "nombre": "Adaptador USB-C a HDMI",
+        "marca": "Anker",
+        "precio": 21.66916,
+        "caracteristicas": [
+            "Resolución de hasta 4K a 60Hz",
+            "Compatible con MacBook"
+        ],
+        "stock": 4
+    },
+    {
+        "id": 19,
+        "nombre": "Tablet Apple iPad Air",
+        "marca": "Apple",
+        "precio": 650.3891600000001,
+        "caracteristicas": [
+            "Pantalla Liquid Retina de 10.9 pulgadas",
+            "Chip A14 Bionic",
+            "Compatible con Apple Pencil y Magic Keyboard"
+        ],
+        "stock": 1
+    },
+    {
+        "id": 17,
+        "nombre": "Smartwatch Apple Watch Series 6",
+        "marca": "Apple",
+        "precio": 433.58916000000005,
+        "caracteristicas": [
+            "Monitorización del ritmo cardíaco",
+            "GPS integrado",
+            "Resistente al agua"
+        ],
+        "stock": 6
+    },
+    {
+        "id": 26,
+        "nombre": "Auriculares Inalámbricos",
+        "marca": "Apple",
+        "precio": 173.42916000000002,
+        "caracteristicas": [
+            "Conexión inalámbrica Bluetooth",
+            "Micrófono y controles integrados",
+            "Autonomía de hasta 5 horas"
+        ],
+        "stock": 8
+    },
+    {
+        "id": 40,
+        "nombre": "Teclado Mecánico Corsair K95 RGB Platinum XT",
+        "marca": "Corsair",
+        "precio": 216.78916000000004,
+        "caracteristicas": [
+            "Interruptores Cherry MX Speed",
+            "Retroiluminación RGB por tecla",
+            "Descanso de muñeca desmontable"
+        ],
+        "stock": 4
+    },
+    {
+        "id": 34,
+        "nombre": "Memoria RAM Corsair Vengeance LPX",
+        "marca": "Corsair",
+        "precio": 119.22916000000001,
+        "caracteristicas": [
+            "16GB de capacidad",
+            "Velocidad de 3200MHz",
+            "Diseño de perfil bajo"
+        ],
+        "stock": 8
+    },
+    {
+        "id": 4,
+        "nombre": "Memoria RAM",
+        "marca": "Corsair",
+        "precio": 97.54916,
+        "caracteristicas": [
+            "16GB",
+            "DDR4",
+            "Velocidad de 3200MHz"
+        ],
+        "stock": 6
+    },
+    {
+        "id": 6,
+        "nombre": "Monitor LED",
+        "marca": "Dell",
+        "precio": 216.78916000000004,
+        "caracteristicas": [
+            "21.5 pulgadas",
+            "Resolución Full HD",
+            "Puertos HDMI y VGA"
+        ],
+        "stock": 2
+    },
+    {
+        "id": 10,
+        "nombre": "Impresora Multifuncional",
+        "marca": "Epson",
+        "precio": 325.18916,
+        "caracteristicas": [
+            "Impresión a doble cara automática",
+            "Velocidad de impresión de hasta 20 ppm",
+            "Conexión Wi-Fi"
+        ],
+        "stock": 3
+    },
+    {
+        "id": 24,
+        "nombre": "Escáner de Documentos",
+        "marca": "Epson",
+        "precio": 270.98916,
+        "caracteristicas": [
+            "Resolución óptica de 1200 dpi",
+            "Velocidad de escaneo de hasta 35 ppm",
+            "Alimentador automático de documentos de 50 páginas"
+        ],
+        "stock": 3
+    },
+    {
+        "id": 15,
+        "nombre": "Tarjeta de Sonido Externa",
+        "marca": "Focusrite",
+        "precio": 162.58916000000002,
+        "caracteristicas": [
+            "2 entradas XLR",
+            "2 salidas de línea",
+            "Resolución de hasta 24-bit/192kHz"
+        ],
+        "stock": 4
+    },
+    {
+        "id": 37,
+        "nombre": "Impresora Multifunción HP OfficeJet Pro",
+        "marca": "HP",
+        "precio": 249.30916000000002,
+        "caracteristicas": [
+            "Impresión"
+        ],
+        "stock": 1
+    },
+    {
+        "id": 21,
+        "nombre": "Teclado y Ratón Inalámbricos",
+        "marca": "HP",
+        "precio": 43.349160000000005,
+        "caracteristicas": [
+            "Conexión inalámbrica 2.4GHz",
+            "Teclado de tamaño completo",
+            "Ratón óptico de tres botones"
+        ],
+        "stock": 1
+    },
+    {
+        "id": 9,
+        "nombre": "Auriculares con Micrófono",
+        "marca": "HyperX",
+        "precio": 97.54916,
+        "caracteristicas": [
+            "Sonido envolvente 7.1",
+            "Micrófono desmontable",
+            "Diadema ajustable"
+        ],
+        "stock": 5
+    },
+    {
+        "id": 14,
+        "nombre": "Procesador Intel Core i7",
+        "marca": "Intel",
+        "precio": 433.58916000000005,
+        "caracteristicas": [
+            "8 núcleos",
+            "Frecuencia de 2.8 GHz",
+            "Tecnología Hyper-Threading"
+        ],
+        "stock": 1
+    },
+    {
+        "id": 31,
+        "nombre": "Tarjeta de Red Ethernet",
+        "marca": "Intel",
+        "precio": 43.349160000000005,
+        "caracteristicas": [
+            "Velocidad de transferencia de hasta 1Gbps",
+            "Conexión PCIe",
+            "Compatible con Windows y Linux"
+        ],
+        "stock": 5
+    },
+    {
+        "id": 33,
+        "nombre": "Altavoz Bluetooth JBL Flip 5",
+        "marca": "JBL",
+        "precio": 130.06916,
+        "caracteristicas": [
+            "Conexión Bluetooth",
+            "Autonomía de hasta 12 horas",
+            "Resistente al agua y al polvo"
+        ],
+        "stock": 8
+    },
+    {
+        "id": 43,
+        "nombre": "Smart TV LG OLED",
+        "marca": "LG",
+        "precio": 1625.98916,
+        "caracteristicas": [
+            "Resolución 4K",
+            "Tamaño de 55 pulgadas",
+            "Sistema operativo webOS"
+        ],
+        "stock": 7
+    },
+    {
+        "id": 46,
+        "nombre": "Altavoces para PC Logitech Z623",
+        "marca": "Logitech",
+        "precio": 130.06916,
+        "caracteristicas": [
+            "Potencia total de 200W RMS",
+            "Subwoofer con control de graves",
+            "Entrada RCA y auxiliar de 3.5mm"
+        ],
+        "stock": 4
+    },
+    {
+        "id": 47,
+        "nombre": "Mouse Inalámbrico Logitech MX Master 3",
+        "marca": "Logitech",
+        "precio": 108.38916,
+        "caracteristicas": [
+            "Conexión inalámbrica Bluetooth o receptor USB",
+            "Rueda de desplazamiento electromagnética",
+            "Botones personalizables"
+        ],
+        "stock": 8
+    },
+    {
+        "id": 41,
+        "nombre": "Webcam Logitech C920",
+        "marca": "Logitech",
+        "precio": 86.70916,
+        "caracteristicas": [
+            "Resolución Full HD",
+            "Micrófonos estéreo integrados",
+            "Enfoque automático"
+        ],
+        "stock": 4
+    },
+    {
+        "id": 11,
+        "nombre": "Altavoces de PC",
+        "marca": "Logitech",
+        "precio": 54.18916000000001,
+        "caracteristicas": [
+            "2.1 canales",
+            "Potencia de salida de 40W",
+            "Control de graves y agudos"
+        ],
+        "stock": 7
+    },
+    {
+        "id": 8,
+        "nombre": "Ratón Inalámbrico",
+        "marca": "Logitech",
+        "precio": 43.349160000000005,
+        "caracteristicas": [
+            "Conexión inalámbrica 2.4GHz",
+            "Diseño ambidiestro",
+            "Sensor óptico de alta precisión"
+        ],
+        "stock": 9
+    },
+    {
+        "id": 5,
+        "nombre": "Tarjeta de Video",
+        "marca": "MSI",
+        "precio": 325.18916,
+        "caracteristicas": [
+            "NVIDIA GeForce RTX 3060",
+            "12GB GDDR6",
+            "DirectX 12 Ultimate"
+        ],
+        "stock": 3
+    },
+    {
+        "id": 12,
+        "nombre": "Cámara Web",
+        "marca": "Microsoft",
+        "precio": 86.70916,
+        "caracteristicas": [
+            "Resolución Full HD",
+            "Micrófono incorporado",
+            "Conexión USB"
+        ],
+        "stock": 7
+    },
+    {
+        "id": 32,
+        "nombre": "Router VPN",
+        "marca": "NETGEAR",
+        "precio": 195.10916000000003,
+        "caracteristicas": [
+            "Velocidad de hasta 300Mbps",
+            "Soporta hasta 20 conexiones VPN",
+            "Firewall integrado"
+        ],
+        "stock": 3
+    },
+    {
+        "id": 44,
+        "nombre": "Repetidor Wi-Fi NETGEAR Nighthawk",
+        "marca": "NETGEAR",
+        "precio": 140.90916,
+        "caracteristicas": [
+            "Velocidad de hasta 1900Mbps",
+            "Tecnología Beamforming para mayor alcance",
+            "Puerto Ethernet Gigabit"
+        ],
+        "stock": 4
+    },
+    {
+        "id": 45,
+        "nombre": "Tarjeta Gráfica NVIDIA GeForce RTX 3070",
+        "marca": "NVIDIA",
+        "precio": 758.78916,
+        "caracteristicas": [
+            "8GB de memoria GDDR6",
+            "Arquitectura Ampere de segunda generación",
+            "Soporte de trazado de rayos en tiempo real"
+        ],
+        "stock": 2
+    },
+    {
+        "id": 7,
+        "nombre": "Teclado Mecánico",
+        "marca": "Razer",
+        "precio": 140.90916,
+        "caracteristicas": [
+            "Teclas retroiluminadas",
+            "Diseño ergonómico",
+            "Conexión USB"
+        ],
+        "stock": 9
+    },
+    {
+        "id": 38,
+        "nombre": "Smartphone Samsung Galaxy S21",
+        "marca": "Samsung",
+        "precio": 867.18916,
+        "caracteristicas": [
+            "Pantalla Dynamic AMOLED de 6.2 pulgadas",
+            "Procesador Exynos 2100",
+            "Cámara trasera de 64MP"
+        ],
+        "stock": 1
+    },
+    {
+        "id": 16,
+        "nombre": "Smartphone Samsung Galaxy S21",
+        "marca": "Samsung",
+        "precio": 867.18916,
+        "caracteristicas": [
+            "Pantalla AMOLED de 6.2 pulgadas",
+            "Procesador Exynos 2100",
+            "Cámara trasera de 64 MP"
+        ],
+        "stock": 2
+    },
+    {
+        "id": 25,
+        "nombre": "Monitor Curvo Samsung",
+        "marca": "Samsung",
+        "precio": 303.50916,
+        "caracteristicas": [
+            "Resolución Full HD",
+            "Tamaño de 27 pulgadas",
+            "Frecuencia de actualización de 75Hz"
+        ],
+        "stock": 7
+    },
+    {
+        "id": 48,
+        "nombre": "Unidad SSD Interna Samsung 970 EVO Plus",
+        "marca": "Samsung",
+        "precio": 216.78916000000004,
+        "caracteristicas": [
+            "Capacidad de 1TB",
+            "Velocidad"
+        ],
+        "stock": 2
+    },
+    {
+        "id": 3,
+        "nombre": "SSD Interno",
+        "marca": "Samsung",
+        "precio": 108.38916,
+        "caracteristicas": [
+            "500GB",
+            "NVMe PCIe Gen 4.0",
+            "Velocidad de lectura de hasta 7000MB/s"
+        ],
+        "stock": 2
+    },
+    {
+        "id": 30,
+        "nombre": "Disco Duro Externo SSD",
+        "marca": "SanDisk",
+        "precio": 216.78916000000004,
+        "caracteristicas": [
+            "Capacidad de 1TB",
+            "Velocidad de transferencia de hasta 1050MB/s",
+            "Resistente al agua y al polvo"
+        ],
+        "stock": 9
+    },
+    {
+        "id": 13,
+        "nombre": "Disco Duro Portátil",
+        "marca": "Seagate",
+        "precio": 140.90916,
+        "caracteristicas": [
+            "4TB",
+            "USB 3.0",
+            "Resistente a golpes y vibraciones"
+        ],
+        "stock": 9
+    },
+    {
+        "id": 42,
+        "nombre": "Disco Duro Externo Seagate Backup Plus",
+        "marca": "Seagate",
+        "precio": 108.38916,
+        "caracteristicas": [
+            "Capacidad de 2TB",
+            "Conexión USB 3.0",
+            "Compatible con Windows y Mac"
+        ],
+        "stock": 1
+    },
+    {
+        "id": 39,
+        "nombre": "Auriculares con Cancelación de Ruido Sony WH-1000XM4",
+        "marca": "Sony",
+        "precio": 379.38916000000006,
+        "caracteristicas": [
+            "Cancelación de ruido líder en la industria",
+            "Autonomía de hasta 30 horas",
+            "Control táctil"
+        ],
+        "stock": 3
+    },
+    {
+        "id": 18,
+        "nombre": "Router Inalámbrico",
+        "marca": "TP-Link",
+        "precio": 86.70916,
+        "caracteristicas": [
+            "Soporta Wi-Fi 6",
+            "Velocidad de hasta 3000 Mbps",
+            "Puertos"
+        ],
+        "stock": 7
+    },
+    {
+        "id": 35,
+        "nombre": "Cámara de Seguridad WiFi",
+        "marca": "TP-Link",
+        "precio": 59.60916,
+        "caracteristicas": [
+            "Resolución Full HD",
+            "Visión nocturna hasta 30 pies",
+            "Notificaciones de detección de movimiento"
+        ],
+        "stock": 6
+    },
+    {
+        "id": 29,
+        "nombre": "Adaptador Wi-Fi USB",
+        "marca": "TP-Link",
+        "precio": 21.66916,
+        "caracteristicas": [
+            "Velocidad de hasta 150Mbps",
+            "Conexión Plug and Play",
+            "Compatible con Windows y Mac"
+        ],
+        "stock": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Disco Duro Externo",
+        "marca": "Toshiba",
+        "precio": 130.06916,
+        "caracteristicas": [
+            "2TB",
+            "USB 3.0",
+            "Resistente a golpes"
+        ],
+        "stock": 6
+    },
+    {
+        "id": 23,
+        "nombre": "Hub USB 3.0 de 4 puertos",
+        "marca": "UGREEN",
+        "precio": 14.08116,
+        "caracteristicas": [
+            "Velocidad de transferencia de hasta 5Gbps",
+            "Compatible con dispositivos USB 2.0 y 1.1",
+            "Conexión Plug and Play"
+        ],
+        "stock": 7
+    },
+    {
+        "id": 1,
+        "nombre": "Disco Duro Interno",
+        "marca": "Western Digital",
+        "precio": 86.70916,
+        "caracteristicas": [
+            "1TB",
+            "7200RPM"
+        ],
+        "stock": 8
+    },
+    {
+        "id": 2,
+        "nombre": "Celular",
+        "marca": "AMD",
+        "precio": 50000.0,
+        "caracteristicas": [
+            "Celular wifi",
+            "bluteho"
+        ],
+        "stock": 5
+    }
+]

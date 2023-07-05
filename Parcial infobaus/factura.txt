@@ -1,0 +1,4 @@
+             PRODUCTO     PRECIO     CANTIDAD     SUBTOTAL
+                Auriculares con Cancelación de Ruido Sony WH-1000XM4   349.99         1            349.99
+                ---------------------------------------------------------------------------------------
+                        Total                                                           $$$349.99
